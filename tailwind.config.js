@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         'primary': 'rgb(76, 64, 237)',
+        'secondary': 'rgb(244, 236, 255)'
       },
     },
   },
